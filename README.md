@@ -1,2 +1,1 @@
-# calculator
-THIS A CALCULATOR USING HTML CSS AND JS
+# scientific_calculator
